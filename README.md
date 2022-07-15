@@ -1,1 +1,1 @@
-# Crypto-urrencyWatcher
+# Crypto-CurrencyWatcher
